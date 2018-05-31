@@ -1,0 +1,13 @@
+<resources>
+    <string name="app_name">RHRF95_Monitor</string>
+    <string name="temp_label">Temp</string>
+    <string name="humid_label">Humid</string>
+    <string name="date_label">Date</string>
+    <string name="button_label">Refresh</string>
+    <string name="back_label">Back</string>
+    <string name="tempDetail">Temperature</string>
+    <string name="humidDetail">Humidity</string>
+    <string name="nodeID">Client</string>
+    <string name="dateDetail">Date</string>
+    <string name="recordID">Record ID</string>
+</resources>
